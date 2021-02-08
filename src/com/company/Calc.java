@@ -33,8 +33,6 @@ public class Calc {
             case "/":
                 System.out.println(x / y);
                 break;
-            default:
-                throw new RuntimeException("Оператор введен неправильно");
         }
     }
 }
