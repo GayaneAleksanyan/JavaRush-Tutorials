@@ -8,7 +8,7 @@ public class SimpleObjectString {
         SimpleObject<T> getInstance();
     }
 
-    class StringObject implements SimpleObject<String> {
+    static class StringObject implements SimpleObject<String> {
 
         @Override
         public SimpleObject<String> getInstance() {
