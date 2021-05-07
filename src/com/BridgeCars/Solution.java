@@ -6,8 +6,8 @@ package com.BridgeCars;
 
 public class Solution {
     public static void main(String[] args) {
-        println(new com.javarush.task.task14.task1409.WaterBridge());
-        println(new com.javarush.task.task14.task1409.SuspensionBridge());
+        println(new com.BridgeCars.WaterBridge());
+        println(new com.BridgeCars.SuspensionBridge());
     }
 
     public static void println(Bridge bridge) {
