@@ -1,4 +1,4 @@
-package com.inputStreamWrapper;
+package com.wrapper;
 
 /* 
 Wrapper (Decorator)
