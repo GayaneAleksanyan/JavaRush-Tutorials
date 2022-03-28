@@ -1,4 +1,4 @@
-package com.fileReaderHighlightingNumbers;
+package com.patternMatcherHighlightingNumbers;
 
 import java.io.*;
 import java.util.regex.Matcher;
